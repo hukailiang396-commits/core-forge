@@ -1,0 +1,1 @@
+{"description":"Core Forge — a fast, GitHub-compatible git forge","engines":{"node":">=22.18"},"license":"MIT","name":"core-forge","scripts":{"start":"node --experimental-strip-types main.ts"},"type":"module","version":"1.0.0"}
